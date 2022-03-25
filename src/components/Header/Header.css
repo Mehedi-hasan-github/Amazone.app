@@ -1,0 +1,23 @@
+.nav-bar{
+    line-height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.nav-bar div a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 36px;
+}
+.nav-bar div a:hover{
+    background-color:#FF9900;
+    padding:5px 17px;
+    border-radius: 2px;
+    color: #1C2B35;
+    font-weight: 700;
+}
